@@ -1,6 +1,6 @@
 # Resources
 
-## Fundamentals
+## TOP - Fundamentals
 - [The old "var"](https://javascript.info/var): Explains the precise differences between 
 `var` and `let`.
 
@@ -16,3 +16,17 @@ strings together.
 
 - [Comparisons](https://javascript.info/comparison): Provides explaination 
 on comparisons.
+
+
+## Codecademy Cheatsheets
+- [Introduction to 
+JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+
+- 
+[Conditionals](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-control-flow/cheatsheet)
+
+
+## Codecademy - Resources
+- [Double Equals vs Triple 
+Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+
