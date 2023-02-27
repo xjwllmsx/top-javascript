@@ -13,3 +13,6 @@ learning JavaScript, such as creating strings, escaping quotes in strings, and j
 strings together.
 
 - [JavaScript String Methods](https://www.w3schools.com/js/js_string_methods.asp): Learn more about what you can do with strings.
+
+- [Comparisons](https://javascript.info/comparison): Provides explaination 
+on comparisons.
