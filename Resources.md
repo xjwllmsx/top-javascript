@@ -31,3 +31,5 @@ strings together.
 
 ## Codecademy - Resources
 - [Double Equals vs Triple Equals](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a)
+
+- [Functions](https://www.codecademy.com/resources/docs/javascript/functions?page_ref=catalog): An article providing an overview on functions in JavaScript.
