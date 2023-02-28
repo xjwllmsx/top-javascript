@@ -15,6 +15,11 @@ strings together.
 
 - [Comparisons](https://javascript.info/comparison): Provides explaination on comparisons.
 
+- [JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp): A great first glance at conditionals in JavaScript
+
+- [Logical Operators](https://javascript.info/logical-operators)
+
+- [Making decisions in your code -- conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals): Reinforces the concept of conditionals and provides several interesting examples of how you could use it building websites.
 
 ## Codecademy Cheatsheets
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
