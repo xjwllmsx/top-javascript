@@ -28,6 +28,8 @@ strings together.
 
 - [When to avoid regular expressions](https://softwareengineering.stackexchange.com/questions/113237/when-you-should-not-use-regular-expressions)
 
+### JavaScript Developer Tools
+- [Pause your code with breakpoints](https://developer.chrome.com/docs/devtools/javascript/breakpoints/): Use breakpoints to pause your JavaScript code. This guide explains each type of breakpoint that's available in DevTools, as well as when to use and how to set each type.
 
 ## Codecademy 
 
