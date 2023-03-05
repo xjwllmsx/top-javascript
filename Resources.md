@@ -31,6 +31,13 @@ strings together.
 ### JavaScript Developer Tools
 - [Pause your code with breakpoints](https://developer.chrome.com/docs/devtools/javascript/breakpoints/): Use breakpoints to pause your JavaScript code. This guide explains each type of breakpoint that's available in DevTools, as well as when to use and how to set each type.
 
+- [Debug JavaScript](https://developer.chrome.com/docs/devtools/javascript/#reproduce)
+
+- [Console overview](https://developer.chrome.com/docs/devtools/console/)
+
+- [14 Must Know Chrome Dev tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8)
+
+
 ## Codecademy 
 
 ### Cheatsheets
