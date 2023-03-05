@@ -24,6 +24,9 @@ strings together.
 
 - [Making decisions in your code -- conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals): Reinforces the concept of conditionals and provides several interesting examples of how you could use it building websites.
 
+- [The Net Ninja's Regular Expressions Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
+
+- [When to avoid regular expressions](https://softwareengineering.stackexchange.com/questions/113237/when-you-should-not-use-regular-expressions)
 
 
 ## Codecademy 
