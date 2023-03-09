@@ -37,6 +37,10 @@ strings together.
 
 - [14 Must Know Chrome Dev tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8)
 
+### Fundamentals Part 3
+- [Functions - resuable blocks of 
+code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
 
 ## Codecademy 
 
