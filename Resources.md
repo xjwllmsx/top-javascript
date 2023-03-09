@@ -41,6 +41,8 @@ strings together.
 - [Functions - resuable blocks of 
 code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
+- [Function Return Values](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Return_values)
+
 
 ## Codecademy 
 
